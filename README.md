@@ -88,8 +88,5 @@ here you can see how our web app interface looks like:
 
 
 
-- LinkedIn - [Nour Eddine ZEKAOUI](https://www.linkedin.com/in/nour-eddine-zekaoui-ba43b1177/)
-- Twitter - [@NZekaoui](https://twitter.com/NZekaoui)
-#### Thank you for your intrest ☻
 
 [BACK TO THE TOP](#plants-identification-by-deep-learning)
